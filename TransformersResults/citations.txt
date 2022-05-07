@@ -1,0 +1,1 @@
+Vision in Transformer is taken from pytorch existing architecture with pertained False attribute: https://github.com/lucidrains/vit-pytorch#vision-transformer---pytorch
