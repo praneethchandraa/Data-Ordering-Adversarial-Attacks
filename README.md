@@ -407,3 +407,5 @@
   </tr>
 </table>
 
+Ref: https://gist.github.com/nikogamulin/7774e0e3988305a78fd73e1c4364aded
+Ref : https://blog.paperspace.com/writing-lenet5-from-scratch-in-python/
